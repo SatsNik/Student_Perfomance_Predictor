@@ -33,8 +33,6 @@ git clone https://github.com/yourusername/student-performance-analysis.git
 Install dependencies:
 bash
 Copy code
-pip install -r requirements.txt
-Run analysis notebooks in notebooks/.
 Key Insights
 Significant Factors: Parental education and test prep course impact scores.
 Best Models: Random Forest and Decision Tree performed well.
